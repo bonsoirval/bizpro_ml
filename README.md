@@ -1,4 +1,4 @@
-![](https://github.com/pragyy/datascience-readme-template/blob/main/Headerheader.jpg)
+![](bizpro.png)
 
 # BizPro
 
