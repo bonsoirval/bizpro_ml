@@ -2,28 +2,59 @@
 
 # BizPro
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/pragyy/datascience-readme-template?include_prereleases)
-![GitHub last commit](https://img.shields.io/github/last-commit/pragyy/datascience-readme-template)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/pragyy/datascience-readme-template)
-![GitHub](https://img.shields.io/github/license/pragyy/datascience-readme-template)
-![contributors](https://img.shields.io/github/contributors/pragyy/datascience-readme-template) 
-![codesize](https://img.shields.io/github/languages/code-size/pragyy/datascience-readme-template) 
+_Social buttons_
+
+[![bonsoirval - bizpro_ml](https://img.shields.io/static/v1?label=bonsoirval&message=bizpro_ml&color=blue&logo=github)](https://github.com/bonsoirval/bizpro_ml "Go to GitHub repo")
+[![stars - bizpro_ml](https://img.shields.io/github/stars/bonsoirval/bizpro_ml?style=social)](https://github.com/bonsoirval/bizpro_ml)
+[![forks - bizpro_ml](https://img.shields.io/github/forks/bonsoirval/bizpro_ml?style=social)](https://github.com/bonsoirval/bizpro_ml)
 
 
-The project title should be concise and self-explanatory so that the user can easily remember your project.
+_Repo metadata_
 
-Add a cover banner to the top of your Readme to catch the attention of your readers.
-I usually include images that are relevant to my project, and you can easily find any image for free online without worrying about copyright issues. However, if the work is not free, make sure to credit the proper owners in the references/acknowledgement section.
 
-The colorful tiles beneath the title are known as badges, and they improve readability by providing quick insights into the github repository. I use [Shields IO](https://shields.io/). Depending on the project you can use the ones that are relevant. 
+[![GitHub tag](https://img.shields.io/github/tag/bonsoirval/bizpro_ml?include_prereleases=&sort=semver&color=blue)](https://github.com/bonsoirval/bizpro_ml/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![issues - bizpro_ml](https://img.shields.io/github/issues/bonsoirval/bizpro_ml)](https://github.com/bonsoirval/bizpro_ml/issues)
+
+_System dependencies_
+
+
+
+_Call-to-Action buttons_
+
+<div align="center">
+
+[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/bonsoirval/bizpro_ml/generate)
+
+
+
+</div>
+
+## Documentation
+
+<div align="center">
+
+[![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")
+
+</div>
+
+
+## License
+
+Released under [MIT](/LICENSE) by [@bonsoirval](https://github.com/bonsoirval).
+
+
+The business management app powering Nigerian business.
 
 # Project Overview
 
-In this section you should provide a brief overview of the project, what it is about, and what it aims to achieve. This will help readers quickly understand what the project is all about.
+bizpro_ml is the machine learning component of [bizpro](https://bizpro.ng). It perform data and predictive analysis for users.
 
 # Installation and Setup
 
-In this section, provide detailed instructions on how to set up the project on a local machine. This includes any necessary dependencies, software requirements, and installation steps. Make sure to include clear and concise instructions so that others can easily replicate your setup.
+Use pip to install the system.
+> pip install git+https://github.com/bonsoirval/bizpro_ml.git@master
+
 
 I like to structure it as below - 
 ## Codes and Resources Used
