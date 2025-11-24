@@ -1,0 +1,1 @@
+Delve deeper into the data by querying it, visualizing it, and identifying relationships between variables. This can involve looking for missing values, duplicates, and distributions.

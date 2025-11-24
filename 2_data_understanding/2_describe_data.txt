@@ -1,0 +1,1 @@
+Examine the "gross" properties of the data, including its format, quantity (e.g., number of records and fields), and the identities of the fields.

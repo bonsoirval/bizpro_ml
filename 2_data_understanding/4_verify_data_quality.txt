@@ -1,0 +1,1 @@
+Assess the quality of the data, checking for missing values, errors, and other issues that could impact the analysis. 

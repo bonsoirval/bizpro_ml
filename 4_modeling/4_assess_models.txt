@@ -1,0 +1,4 @@
+Evaluate the performance of the models. 
+This may involve using various metrics and indicators, 
+and it is important to document the results, 
+including any challenges encountered.

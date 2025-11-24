@@ -1,0 +1,1 @@
+After evaluating the results, you must decide on the immediate next actions for the project. This could mean either moving to the deployment phase if the model is successful or revisiting earlier phases (like modeling or data preparation) to make improvements if the results are not satisfactory. 

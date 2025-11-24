@@ -1,0 +1,1 @@
+Plan how to build and test the models. This includes preparing the data for modeling and setting up the structure for testing different models.

@@ -1,0 +1,1 @@
+This task involves evaluating the model to see if it meets the business objectives defined in the initial phase. You will assess the model's performance using specific metrics to ensure it's meeting the success criteria.

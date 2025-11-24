@@ -1,0 +1,10 @@
+Research is integrated throughout the CRISP-DM methodology, most notably during the Business Understanding and Data Understanding phases. Business Understanding involves researching business objectives and requirements, while Data Understanding requires exploring and analyzing the data to discover initial insights and identify quality problems. Research continues implicitly as it is an iterative process where one phase's findings lead to further investigation in the next, for example, researching different modeling techniques in the Modeling phase or evaluating the results of those models. 
+Key phases for research
+Business Understanding: This is where you start by researching the business problem, objectives, and requirements to define the data mining goals.
+Data Understanding: You "research" the data here by collecting, describing, and exploring it to discover initial insights, identify patterns, and check for quality issues.
+Data Preparation: This phase involves research into how to select, clean, and transform the data, with the goal of creating a final dataset ready for modeling.
+Modeling: You research and select appropriate modeling techniques, generate test designs, and build and assess the models. This phase often involves iterations where you revisit previous steps.
+Evaluation: This is a critical research phase where you evaluate the models against the business objectives to determine if they are successful and if any further steps or research are needed.
+Deployment: Research continues here with ongoing monitoring and maintenance, and a final report is produced summarizing the project. 
+The cyclical nature of research in CRISP-DM
+CRISP-DM is not a linear, one-time process. The arrows between the phases, especially the outer circle showing iterative loops, indicate that the process cycles back on itself. The findings from each phase often trigger new questions and require further research in previous or subsequent phases. 

@@ -1,0 +1,1 @@
+Transforming data into a consistent format, which can include tasks like scaling, normalization, or encoding. 
