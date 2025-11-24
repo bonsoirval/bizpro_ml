@@ -1,6 +1,6 @@
 ![](https://github.com/pragyy/datascience-readme-template/blob/main/Headerheader.jpg)
 
-# BizPro
+# Project Title
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/pragyy/datascience-readme-template?include_prereleases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/pragyy/datascience-readme-template)
@@ -9,6 +9,7 @@
 ![contributors](https://img.shields.io/github/contributors/pragyy/datascience-readme-template) 
 ![codesize](https://img.shields.io/github/languages/code-size/pragyy/datascience-readme-template) 
 
+> A guide to writing an amazing readme for your data science project.
 
 The project title should be concise and self-explanatory so that the user can easily remember your project.
 
