@@ -55,21 +55,20 @@ bizpro_ml is the machine learning component of [bizpro](https://bizpro.ng). It p
 Use pip to install the system.
 > pip install git+https://github.com/bonsoirval/bizpro_ml.git@master
 
-
-I like to structure it as below - 
+ 
 ## Codes and Resources Used
-In this section I give user the necessary information about the software requirements.
-- **Editor Used:**  Informing the user of the editor used to produce the project.
-- **Python Version:** Informing the user of the version of python used for this project. If you are using some other language such as R, you can mention that as well.
+The below listed are the tools used in this project
+- **Editor Used:**  This work is being coded and maintained with Microsoft Visual Studio Code.
+- **Python Version:** Python version is : Python 3.11.2
 
 ## Python Packages Used
-In this section, I include all the necessary dependencies needed to reproduce the project, so that the reader can install them before replicating the project. I categorize the long list of packages used as - 
-- **General Purpose:** General purpose packages like `urllib, os, request`, and many more.
-- **Data Manipulation:** Packages used for handling and importing dataset such as `pandas, numpy` and others.
-- **Data Visualization:** Include packages which were used to plot graphs in the analysis or for understanding the ML modelling such as `seaborn, matplotlib` and others.
-- **Machine Learning:** This includes packages that were used to generate the ML model such as `scikit, tensorflow`, etc.
+These are the python packages utilized for this project. 
+- **General Purpose:** :`urllib, os, request`.
+- **Data Manipulation:** : `Pandas, Numpy`
+- **Data Visualization:** :`seaborn, matplotlib`.
+- **Machine Learning:** `scikit`.
 
-The level of granularity you want to provide for the above list is entirely up to you. You can also add a few more levels, such as those for statistical analysis or data preparation, or you can simply incorporate them into the above list as is.
+The list above would continue to be updated as the project goes on.
 
 # Data
 
@@ -92,25 +91,30 @@ Explain the code structure and how it is organized, including any significant fi
 Here is the basic suggested skeleton for your data science repo (you can structure your repository as needed ):
 
 ```bash
-├── data
+├── 1_business_understanding
 │   ├── data1.csv
 │   ├── data2.csv
 │   ├── cleanedData
 │   │   ├── cleaneddata1.csv
 |   |   └── cleaneddata2.csv
-├── data_acquisition.py
-├── data_preprocessing.ipynb
-├── data_analysis.ipynb
-├── data_modelling.ipynb
-├── Img
-│   ├── img1.png
-│   ├── Headerheader.jpg
+├── 2_data_understanding
+├── 3_data_preparation
+├── 4_modeling
+├── 5_evaluation
+├── 6_deployment
+├── 7_monitoring
+├── 8_tests
+├── requirements.txt
+├── img
+│   ├── bizpro.png
+│   
 ├── LICENSE
 ├── README.md
 └── .gitignore
 ```
 
 # Results and evaluation
+coming soon
 Provide an overview of the results of your project, including any relevant metrics and graphs. Include explanations of any evaluation methodologies and how they were used to assess the quality of the model. You can also make it appealing by including any pictures of your analysis or visualizations.
 
 # Future work
